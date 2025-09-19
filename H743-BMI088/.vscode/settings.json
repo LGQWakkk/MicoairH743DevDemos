@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "bmi270.h": "c",
+        "system.h": "c",
+        "main.h": "c",
+        "gpio.h": "c",
+        "stm32h7xx_hal.h": "c",
+        "dma.h": "c",
+        "spl06.h": "c",
+        "stdint.h": "c",
+        "stdbool.h": "c",
+        "math.h": "c",
+        "i2c.h": "c",
+        "cstdarg": "c",
+        "ublox.h": "c",
+        "limits": "c",
+        "type_traits": "c",
+        "adc.h": "c",
+        "stm32h7xx_it.h": "c",
+        "qmc5883l.h": "c",
+        "string.h": "c",
+        "bmi08x.h": "c",
+        "spi.h": "c",
+        "tim.h": "c"
+    }
+}
